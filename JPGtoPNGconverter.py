@@ -1,7 +1,6 @@
 import sys
 import os
-import pil
-from pil import Image, ImageFilter
+from PIL import Image, ImageFilter
 
 
 def folder_exist(route):
